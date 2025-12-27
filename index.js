@@ -4,10 +4,10 @@ let fahrenheit;
 fahrenheit = (celsius * 9) / 5 + 32;
 console.log(fahrenheit);
 //2
-let daysInMonth = 30;
-let hoursInMonth = daysInMonth * 24;
+const daysInMonth = 30;
+const hoursInMonth = daysInMonth * 24;
 console.log(hoursInMonth);
-let minutesInMonth = hoursInMonth * 60;
+const minutesInMonth = hoursInMonth * 60;
 console.log(minutesInMonth);
 //3
 let playerHealth = 100;
